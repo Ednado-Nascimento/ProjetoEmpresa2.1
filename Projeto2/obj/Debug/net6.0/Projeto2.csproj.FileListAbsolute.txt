@@ -1,0 +1,15 @@
+C:\Users\el_ma\source\repos\Projetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.csproj.AssemblyReference.cache
+C:\Users\el_ma\source\repos\Projetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\el_ma\source\repos\Projetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.AssemblyInfoInputs.cache
+C:\Users\el_ma\source\repos\Projetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.AssemblyInfo.cs
+C:\Users\el_ma\source\repos\Projetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\el_ma\source\repos\Projetos\Projeto2\Projeto2\bin\Debug\net6.0\Projeto2.exe
+C:\Users\el_ma\source\repos\Projetos\Projeto2\Projeto2\bin\Debug\net6.0\Projeto2.deps.json
+C:\Users\el_ma\source\repos\Projetos\Projeto2\Projeto2\bin\Debug\net6.0\Projeto2.runtimeconfig.json
+C:\Users\el_ma\source\repos\Projetos\Projeto2\Projeto2\bin\Debug\net6.0\Projeto2.dll
+C:\Users\el_ma\source\repos\Projetos\Projeto2\Projeto2\bin\Debug\net6.0\Projeto2.pdb
+C:\Users\el_ma\source\repos\Projetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.dll
+C:\Users\el_ma\source\repos\Projetos\Projeto2\Projeto2\obj\Debug\net6.0\refint\Projeto2.dll
+C:\Users\el_ma\source\repos\Projetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.pdb
+C:\Users\el_ma\source\repos\Projetos\Projeto2\Projeto2\obj\Debug\net6.0\Projeto2.genruntimeconfig.cache
+C:\Users\el_ma\source\repos\Projetos\Projeto2\Projeto2\obj\Debug\net6.0\ref\Projeto2.dll
